@@ -5,7 +5,7 @@ This is a solution to the QR code component challenge on Frontend Mentor. It is 
 
 Screenshot
 
-![alt text](image.png)
+![alt text](./src/assets/image.png)
 
 Links
 
